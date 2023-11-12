@@ -2,6 +2,7 @@
 ## Objetivo:
 ### El objetivo de este quinto proyecto es el de poner en práctica las habilidaes de visualización de datos aprendidas a lo largo de la semana 5. Para ello he elegido trabajar con Tableau, que es una potente herramienta de visualización de datos y business intelligence que ayuda a las personas a ver y entender sus datos. Permite a los usuarios crear y distribuir un tablero interactivo y compartible que muestra tendencias, variaciones y densidad de los datos en forma de gráficos. Tableau puede conectar a varios tipos de datos como hojas de cálculo, bases de datos SQL, servicios en la nube y hasta procesos de big data.
 ### Los datos sobre los que he trabajado han sido los que extraje, transformé y cargué en Mongo DB en el proyecyo anterior.
+Los enlaces a Tableau se abren clicando sobre las imágenes
 
 
 - En este primer gráfico se puede observar la tendencia a la baja de la población de las comunidades autónomas de Extremadadura y Castilla y León, mientra que en Madrid la tendencia general es al crecimiento. En el año 2020 se observa una disminución que coincide con la alta mortalidad de la pandemia y una detención del flujo migratorio:
