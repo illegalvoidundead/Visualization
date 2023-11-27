@@ -17,4 +17,4 @@ En este gráfico se comparan el tipo medio y el tipo efectivo del impuesto sobre
 
 [![Dashboard](https://github.com/illegalvoidundead/Visualization/blob/main/img/Recaudacio%CC%81n%20impuesto%20sucesiones.png)](https://public.tableau.com/app/profile/david.ledo/viz/Recaudacinimpuestosucesiones/Recaudacinimpuestosucesiones?publish=yes)
 
-[![Dashboard](https://github.com/illegalvoidundead/Visualization/blob/main/img/Dashboard%201.png)](https://public.tableau.com/app/profile/david.ledo/viz/Proyecto5_16998125834870/Dashboard1)
+[![Dashboard](/Users/davidledo/Desktop/Proyecto_visualizacion_2/Historia 1.png)](https://public.tableau.com/app/profile/david.ledo/viz/Visualizacion_17010417500240/Historia1)
