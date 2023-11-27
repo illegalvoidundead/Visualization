@@ -13,8 +13,10 @@ Los enlaces a Tableau se abren clicando sobre las imágenes
 
 [![Dashboard](https://github.com/illegalvoidundead/Visualization/blob/main/img/Ahorro%20IRPF.png)](https://public.tableau.com/app/profile/david.ledo/viz/AhorroIRPF/AhorroIRPF?publish=yes)
 
-En este gráfico se comparan el tipo medio y el tipo efectivo del impuesto sobre el patrimonio en las Comunidades Autónomas, siendo Mádrid la única que aplica una bonificación al 100% del impuesto, es decir, la recaudación total es igual a cero.
+- En este gráfico se comparan el tipo medio y el tipo efectivo del impuesto sobre el patrimonio en las Comunidades Autónomas, siendo Mádrid la única que aplica una bonificación al 100% del impuesto, es decir, la recaudación total es igual a cero.
 
 [![Dashboard](https://github.com/illegalvoidundead/Visualization/blob/main/img/Recaudacio%CC%81n%20impuesto%20sucesiones.png)](https://public.tableau.com/app/profile/david.ledo/viz/Recaudacinimpuestosucesiones/Recaudacinimpuestosucesiones?publish=yes)
+
+- En estas visualizaciones podemos observar la progresiva despoblación de algunas Comunidades Autónomas frente al crecimiento de otras.
 
 [![Dashboard](https://github.com/illegalvoidundead/Visualization/blob/main/img/Historia%201.png)](https://public.tableau.com/app/profile/david.ledo/viz/Visualizacion_17010417500240/Historia1)
